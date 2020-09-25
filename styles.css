@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+*{
+    color: grey;
+}
+h1{
+    font-family: 'Cairo';
+    font-weight: 700;
+}
+.link{
+    color:rgb(123, 202, 228);
+    font-style: normal;
+    text-decoration: none;
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: 700;
+}
